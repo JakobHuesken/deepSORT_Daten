@@ -1,0 +1,7 @@
+%YAML:1.0
+---
+imgp: !!opencv-matrix
+   rows: 4
+   cols: 2
+   dt: d
+   data: [ 704., 685., 1046., 725., 620., 793., 1008., 853. ]
