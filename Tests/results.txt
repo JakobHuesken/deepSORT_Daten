@@ -1,0 +1,100 @@
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_30Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_cam1.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 0
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_30Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_0.2.txt
+Frames with Multiple Objects: 82
+Multiple Object Rate: 0.5616438356164384
+Object ID Switches: 6
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_30Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_cam2.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 0
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_ZP/Ergebnisse/hypotheses_test_15.04.24_zweipersonen_cam2.txt.txt
+Frames with Multiple Objects: 115
+Multiple Object Rate: 0.9274193548387096
+Object ID Switches: 3
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_ZP/Ergebnisse/hypotheses_test_15.04.24_zweipersonen_cam1.txt.txt
+Frames with Multiple Objects: 53
+Multiple Object Rate: 0.43089430894308944
+Object ID Switches: 4
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_ZP/Ergebnisse/hypotheses_test_15.04.24_zweipersonen_0.2.txt
+Frames with Multiple Objects: 181
+Multiple Object Rate: 0.8418604651162791
+Object ID Switches: 15
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_cam1.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 1
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_0.1.txt
+Frames with Multiple Objects: 92
+Multiple Object Rate: 0.5859872611464968
+Object ID Switches: 4
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_0.2.txt
+Frames with Multiple Objects: 95
+Multiple Object Rate: 0.6050955414012739
+Object ID Switches: 7
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_0.8.txt
+Frames with Multiple Objects: 25
+Multiple Object Rate: 0.1592356687898089
+Object ID Switches: 9
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Auseinander_60Grad/15_04_EP/Ergebnisse/hypotheses_test_15.04.24_eineperson_cam2.txt
+Frames with Multiple Objects: 19
+Multiple Object Rate: 0.14285714285714285
+Object ID Switches: 2
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_LL/Ergebnisse/hypotheses_test_15.04.24_langsamerlauf_0.2.txt
+Frames with Multiple Objects: 16
+Multiple Object Rate: 0.1103448275862069
+Object ID Switches: 10
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_LL/Ergebnisse/hypotheses_test_15.04.24_langsamerlauf_0.5.txt
+Frames with Multiple Objects: 2
+Multiple Object Rate: 0.013986013986013986
+Object ID Switches: 1
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_LL/Ergebnisse/hypotheses_test_15.04.24_langsamerlauf_cam1.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 0
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_LL/Ergebnisse/hypotheses_test_15.04.24_langsamerlauf_0.8.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 2
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_LL/Ergebnisse/hypotheses_test_15.04.24_langsamerlauf_cam2.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 1
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_SL/Ergebnisse/hypotheses_test_15.04.24_schnellerlauf_0.2.txt
+Frames with Multiple Objects: 2
+Multiple Object Rate: 0.015384615384615385
+Object ID Switches: 1
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_SL/Ergebnisse/hypotheses_test_15.04.24_schnellerlauf_0.8.txt
+Frames with Multiple Objects: 12
+Multiple Object Rate: 0.09375
+Object ID Switches: 5
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_SL/Ergebnisse/hypotheses_test_15.04.24_schnellerlauf_cam1.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 1
+
+File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04_Nebeneinander/15_04_SL/Ergebnisse/hypotheses_test_15.04.24_schnellerlauf_cam2.txt
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
+Object ID Switches: 0
+
