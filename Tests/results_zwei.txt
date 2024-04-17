@@ -1,11 +1,11 @@
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_0.99.txt
-Frames with Multiple Objects: 26
-Multiple Object Rate: 0.1793103448275862
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 8
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_0.01.txt
-Frames with Multiple Objects: 87
-Multiple Object Rate: 0.5958904109589042
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 3
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_cam1.txt
@@ -14,13 +14,13 @@ Multiple Object Rate: 0.0
 Object ID Switches: 0
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_0.5.txt
-Frames with Multiple Objects: 32
-Multiple Object Rate: 0.21768707482993196
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 10
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_0.2.txt
-Frames with Multiple Objects: 82
-Multiple Object Rate: 0.5616438356164384
+Frames with Multiple Objects: 1
+Multiple Object Rate: 0.00684931506849315
 Object ID Switches: 6
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_cam2.txt
@@ -29,13 +29,13 @@ Multiple Object Rate: 0.0
 Object ID Switches: 0
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_0.1.txt
-Frames with Multiple Objects: 87
-Multiple Object Rate: 0.5958904109589042
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 3
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/30Grad/Eine_Person/Ergebnisse/hypotheses_0.8.txt
-Frames with Multiple Objects: 26
-Multiple Object Rate: 0.1793103448275862
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 8
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Langsamer_Lauf/Ergebnisse/hypotheses_0.99.txt
@@ -44,8 +44,8 @@ Multiple Object Rate: 0.0
 Object ID Switches: 2
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Langsamer_Lauf/Ergebnisse/hypotheses_0.01.txt
-Frames with Multiple Objects: 132
-Multiple Object Rate: 0.4852941176470588
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 6
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Langsamer_Lauf/Ergebnisse/hypotheses_cam1.txt
@@ -54,13 +54,13 @@ Multiple Object Rate: 0.0
 Object ID Switches: 0
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Langsamer_Lauf/Ergebnisse/hypotheses_0.5.txt
-Frames with Multiple Objects: 2
-Multiple Object Rate: 0.013986013986013986
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 1
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Langsamer_Lauf/Ergebnisse/hypotheses_0.2.txt
-Frames with Multiple Objects: 16
-Multiple Object Rate: 0.1103448275862069
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 10
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Langsamer_Lauf/Ergebnisse/hypotheses_cam2.txt
@@ -79,8 +79,8 @@ Multiple Object Rate: 0.0
 Object ID Switches: 1
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Schneller_Lauf/Ergebnisse/hypotheses_0.2.txt
-Frames with Multiple Objects: 2
-Multiple Object Rate: 0.015384615384615385
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 1
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Schneller_Lauf/Ergebnisse/hypotheses_cam2.txt
@@ -89,18 +89,18 @@ Multiple Object Rate: 0.0
 Object ID Switches: 0
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/Nebeneinander/Schneller_Lauf/Ergebnisse/hypotheses_0.8.txt
-Frames with Multiple Objects: 12
-Multiple Object Rate: 0.09375
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 5
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_0.99.txt
-Frames with Multiple Objects: 26
-Multiple Object Rate: 0.10276679841897234
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 19
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_0.01.txt
-Frames with Multiple Objects: 98
-Multiple Object Rate: 0.6282051282051282
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 5
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_cam1.txt
@@ -109,62 +109,62 @@ Multiple Object Rate: 0.0
 Object ID Switches: 1
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_0.5.txt
-Frames with Multiple Objects: 38
-Multiple Object Rate: 0.2345679012345679
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 9
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_0.2.txt
-Frames with Multiple Objects: 95
-Multiple Object Rate: 0.6050955414012739
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 7
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_cam2.txt
-Frames with Multiple Objects: 19
-Multiple Object Rate: 0.14285714285714285
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 2
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_0.1.txt
-Frames with Multiple Objects: 92
-Multiple Object Rate: 0.5859872611464968
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 4
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Eine_Person/Ergebnisse/hypotheses_0.8.txt
-Frames with Multiple Objects: 25
-Multiple Object Rate: 0.1592356687898089
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 9
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_0.99.txt
-Frames with Multiple Objects: 112
-Multiple Object Rate: 0.5544554455445545
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 12
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_0.01.txt
-Frames with Multiple Objects: 172
-Multiple Object Rate: 0.5375
+Frames with Multiple Objects: 60
+Multiple Object Rate: 0.1875
 Object ID Switches: 12
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_cam1.txt.txt
-Frames with Multiple Objects: 53
-Multiple Object Rate: 0.43089430894308944
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 4
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_0.5.txt
-Frames with Multiple Objects: 184
-Multiple Object Rate: 0.847926267281106
+Frames with Multiple Objects: 101
+Multiple Object Rate: 0.46543778801843316
 Object ID Switches: 23
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_0.2.txt
-Frames with Multiple Objects: 181
-Multiple Object Rate: 0.8418604651162791
+Frames with Multiple Objects: 106
+Multiple Object Rate: 0.4930232558139535
 Object ID Switches: 15
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_cam2.txt.txt
-Frames with Multiple Objects: 115
-Multiple Object Rate: 0.9274193548387096
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 3
 
 File: /home/visadmin/Desktop/Datenerhebung_DeepSort/Tests/15_04/60Grad/Zwei_Personen/Ergebnisse/hypotheses_0.8.txt
-Frames with Multiple Objects: 121
-Multiple Object Rate: 0.587378640776699
+Frames with Multiple Objects: 0
+Multiple Object Rate: 0.0
 Object ID Switches: 10
 
